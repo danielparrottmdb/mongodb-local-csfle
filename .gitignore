@@ -1,0 +1,4 @@
+bin/*
+obj/*
+setenv.sh
+setenv.ps1
